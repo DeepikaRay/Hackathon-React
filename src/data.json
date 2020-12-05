@@ -1,0 +1,23 @@
+{
+    "KIIT": [
+      {
+        "id": "1234",
+        "course": "CS",
+        "name": "KIIT",
+        "status": "Accepted"
+      }],
+    "CET": [
+      {
+        "id": "5678",
+        "course": "IT",
+        "name": "CET",
+        "status": "Accepted"
+      }],
+    "ITER": [
+      {
+        "id": "1289",
+        "course": "CS",
+        "name": "ITER",
+        "status": "In Process"
+      }]
+  }
